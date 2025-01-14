@@ -1,0 +1,6 @@
+<!-- MAIL DATASET , mail_data.csv -->
+
+https://drive.google.com/file/d/1DNd9pArBy88YPDRKj04M7IzuWEZMqqWN/view
+
+**Note**
+Download the dataset from the given link , and paste the downloaded csv file into respected project repository
